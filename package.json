@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./",
-    "preview": "vite preview"
+    "build": "vite build --base=/lighthall-challenge-1",
+    "preview": "vite preview --port 8080"
   },
   "dependencies": {
     "react": "^18.2.0",
